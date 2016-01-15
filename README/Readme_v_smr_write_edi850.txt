@@ -1,0 +1,1 @@
+Description: DDL to create view to enable EDI850 file creation (from EDI850 ISB tables)

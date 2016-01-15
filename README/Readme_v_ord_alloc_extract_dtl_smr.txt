@@ -1,0 +1,1 @@
+Description: Modified view to properly return allocation quantities for VP/Buyer pack, allocs, holdback

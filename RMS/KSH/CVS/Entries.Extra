@@ -1,0 +1,15 @@
+/deploy_code_db.ksh////*////
+/forms_compile_all.ksh////*////
+/smr_leap2_alloc_fulfil_close.ksh////*////
+/smr_leap2_tsf_fulfil_close.ksh////*////
+/smr_leap2_wa_send_alloc_tsf.ksh////*////
+/smr_load_wh_adjustments.ksh////*////
+/smr_load_wh_ship.ksh////*////
+/smr_payment_advice.ksh////*////
+/smr_rtv_extract.ksh////*////
+/smr_rtw_extract.ksh////*////
+/smr_vendor_asn.ksh////*////
+/smr_vendor_pack_extract.ksh////*////
+/smr_wh_po_extract.ksh////*////
+/smr_wh_receiving.ksh////*////
+/std_len.h////*////
